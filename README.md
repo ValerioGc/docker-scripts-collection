@@ -48,6 +48,7 @@
     - Install laravel and dependencies.
     - Run the Laravel dev server on port 8000.
 
+---
 
 ### License
 This project is licensed under the 0BSD License - see the [LICENSE](LICENSE) file for details.
